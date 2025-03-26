@@ -1,0 +1,15 @@
+C:\Users\nnarat\OOPdiceGames\bin\Debug\net8.0\oopCompsci.exe
+C:\Users\nnarat\OOPdiceGames\bin\Debug\net8.0\oopCompsci.deps.json
+C:\Users\nnarat\OOPdiceGames\bin\Debug\net8.0\oopCompsci.runtimeconfig.json
+C:\Users\nnarat\OOPdiceGames\bin\Debug\net8.0\oopCompsci.dll
+C:\Users\nnarat\OOPdiceGames\bin\Debug\net8.0\oopCompsci.pdb
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.AssemblyInfoInputs.cache
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.AssemblyInfo.cs
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.csproj.CoreCompileInputs.cache
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.sourcelink.json
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.dll
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\refint\oopCompsci.dll
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.pdb
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\oopCompsci.genruntimeconfig.cache
+C:\Users\nnarat\OOPdiceGames\obj\Debug\net8.0\ref\oopCompsci.dll
